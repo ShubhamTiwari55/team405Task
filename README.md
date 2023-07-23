@@ -25,7 +25,7 @@ The main goal of this project is to demonstrate how to build a basic React app w
 To run this project on your local machine, follow these steps:
 
 1. Clone the repository:
- git clone https://github.com/your-username/my-react-search-app.git
+ git clone https://github.com/ShubhamTiwari55/team405Task.git
 cd my-react-search-app
 2. Install the dependencies:
    npm install
