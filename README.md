@@ -26,7 +26,7 @@ To run this project on your local machine, follow these steps:
 
 1. Clone the repository:
  git clone https://github.com/ShubhamTiwari55/team405Task.git
-cd my-react-search-app
+cd task
 2. Install the dependencies:
    npm install
 3. Run the development server:
