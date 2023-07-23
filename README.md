@@ -39,7 +39,7 @@ cd task
 
 The project's structure is as follows:
 
-my-react-search-app/
+task/
 |-- node_modules/
 |-- public/
 | |-- index.html
